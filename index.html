@@ -9,6 +9,16 @@
     <script src="./js/main.js"></script>
     <script src="./js/cal.js"></script>
     <script src="./js/ref.js"></script>
+
+    <style>
+      input , textarea , select {
+        /* 入力欄にフォーカスが当たっても拡大しない */
+        font-size:16px;
+      }
+      pre {
+        overflow: scroll;
+      }
+    </style>
     <script>
       /* ピッチインピッチアウトによる拡大縮小を禁止 */
       document.documentElement.addEventListener('touchstart', function (e) {

@@ -1,0 +1,19 @@
+html {
+  background-color: #000;
+  color: #fff;
+}
+
+#div_title {
+}
+#div_title input {
+  font-size: 100px;
+  width: 100%;
+}
+
+.div_input {
+  font-size: 30px;
+}
+
+.div_input input, select {
+  font-size: 30px;
+}

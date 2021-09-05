@@ -4,14 +4,14 @@ html {
 }
 
 #div_title input {
-  font-size: 100pt;
+  font-size: 30px;
   width: 80%;
 }
 
 .div_input {
-  font-size: 30pt;
+  font-size: 20px;
 }
 
 .div_input input, select {
-  font-size: 30pt;
+  font-size: 20px;
 }

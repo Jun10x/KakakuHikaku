@@ -1,3 +1,3 @@
 function onloadFunctions() {
-  no_scroll();
+  //no_scroll();
 }
